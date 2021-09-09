@@ -1,4 +1,4 @@
-module github.com/shreyas-dev/go/banking-lib
+module github.com/shreyas-dev/go-banking-lib
 
 go 1.16
 
